@@ -24,3 +24,4 @@ venv.bak/
 cdk/cdk.context.json
 cdk.out/
 load-testing/tmp/
+.idea
